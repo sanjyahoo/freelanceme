@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7082" started-at="2019-02-24T20:25:38Z" finished-at="2019-02-24T20:25:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7082" started-at="2019-02-24T20:25:38Z" finished-at="2019-02-24T20:25:45Z">
+      <class name="org.freelance.testcases.TC_001_Cruise_itinerary">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:org.freelance.testcases.TC_001_Cruise_itinerary@42d80b78]" name="startbrowser" is-config="true" duration-ms="8332" started-at="2019-02-24T20:25:29Z" finished-at="2019-02-24T20:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method status="PASS" signature="step_001()[pri:1, instance:org.freelance.testcases.TC_001_Cruise_itinerary@42d80b78]" name="step_001" duration-ms="52" started-at="2019-02-24T20:25:38Z" finished-at="2019-02-24T20:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_001 -->
+        <test-method status="PASS" signature="step_002()[pri:2, instance:org.freelance.testcases.TC_001_Cruise_itinerary@42d80b78]" name="step_002" duration-ms="165" started-at="2019-02-24T20:25:38Z" finished-at="2019-02-24T20:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_002 -->
+        <test-method status="PASS" signature="step_003()[pri:3, instance:org.freelance.testcases.TC_001_Cruise_itinerary@42d80b78]" name="step_003" duration-ms="6815" started-at="2019-02-24T20:25:38Z" finished-at="2019-02-24T20:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step_003 -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:org.freelance.testcases.TC_001_Cruise_itinerary@42d80b78]" name="closebrowser" is-config="true" duration-ms="321" started-at="2019-02-24T20:25:50Z" finished-at="2019-02-24T20:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- org.freelance.testcases.TC_001_Cruise_itinerary -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
